@@ -1,7 +1,7 @@
 # Getting Started with Create React App
 
-I've been doing this project, through the Academy React Course on Udemy.
-My goal is to get a better idea of how React works. (Almost all concepts)
+## I've been doing this project, through the Academy React Course on Udemy.
+## My goal is to get a better idea of how `React` works. (Almost all concepts)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
